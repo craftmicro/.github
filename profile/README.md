@@ -1,6 +1,6 @@
 # Craft Micro
 
-![mac logo](logo.png?raw=true "mac")
+![craft micro logo](logo.png?raw=true "craft micro")
 
 __Craft Micro__ maintains an open-source software library and set of plans to craft your own microprocessor-based handheld gaming console.
 
